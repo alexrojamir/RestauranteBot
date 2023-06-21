@@ -57,7 +57,7 @@ const flowDiscord = addKeyword(['discord']).addAnswer(
 )
 
 const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
-    .addAnswer('🙌 Hola! bienvenido al restaurante *Pepito*')
+    .addAnswer('🙌 Hola!!!! bienvenido al restaurante *Pepito*')
     .addAnswer(
         [
             'te comparto los siguientes pasos para realizar tu pedido',
